@@ -15,10 +15,15 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding: 10px;
 }
 
 .header{
-    border: 1px solid red;
     width: 70%;
-    height: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(43, 43, 184);
+    color: white;
+    padding: 10px;
 }
