@@ -5,7 +5,8 @@ body{
 .container{
     margin: 0 20px 0 20px;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .post{
@@ -14,4 +15,15 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    padding: 10px;
+}
+
+.header{
+    width: 70%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(43, 43, 184);
+    color: white;
+    padding: 10px;
 }
