@@ -1,2 +1,2 @@
 # Blog
-Blog de tecnlogia Platzi
+Blog de tecnologia Platzi
