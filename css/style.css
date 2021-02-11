@@ -20,10 +20,16 @@ body{
 
 .header{
     width: 70%;
-    height: 40px;
+    height: 70px;
     display: flex;
     align-items: center;
-    background-color: rgb(112, 160, 223);
+    background-color: #151730;
     color: white;
     padding: 10px;
+    border-radius: 12px 12px 0 0;
+}
+
+.logo{
+    width: 110px;
+    height: 80px;
 }
